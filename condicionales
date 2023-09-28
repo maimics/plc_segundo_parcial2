@@ -1,0 +1,16 @@
+condicionales01.py 
+numero = float(input("Ingrese un número")
+
+if numero > 0:
+  print("el numero que es positivo")
+elif numero < 0:
+  print("El número es negativo")
+else: 
+  print("El numero es igual a cero")
+
+
+condicionales02.py
+numero = float(input("Ingrese un numero"))
+
+if -10 <= numero <= 10:
+  print("¡hurra!")
